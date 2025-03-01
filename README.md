@@ -42,9 +42,11 @@ pip install openai python-dotenv
 * 准备好你的地图文件 | Prepare Your Map
 * 通过 **Filename.ipynb** 进行文件重命名（可选） |  File renaming via **Filename.ipynb** (Optional)
 
-### 注册Qwen API |
+### 注册Qwen API | Register for Qwen API 
 
-* 在[阿里云百炼模型平台](https://bailian.console.aliyun.com//model-market#/home)注册，选择对应模型并获取相应模型API，需要多模态模型（如Qwen-Omni-Turbo, Qwen-Max)，填入代码文件中｜Register in [AliCloud Hundred Refined Models Platform](https://bailian.console.aliyun.com//model-market#/home), select the corresponding model and get the corresponding model API, need multimodal model (e.g. Qwen-Omni-Turbo, Qwen-Max), fill in the code file
+**Qwen API文档 ｜Document：https://help.aliyun.com/zh/model-studio/user-guide/vision/**
+
+* 在**[阿里云百炼模型平台](https://bailian.console.aliyun.com//model-market#/home)**注册，选择对应模型并获取相应模型API，需要多模态模型（如Qwen-Omni-Turbo, Qwen-Max)，填入代码文件中｜Register in **[AliCloud Hundred Refined Models Platform](https://bailian.console.aliyun.com//model-market#/home)**, select the corresponding model and get the corresponding model API, need multimodal model (e.g. Qwen-Omni-Turbo, Qwen-Max), fill in the code file
 
 ### 地图批改 | Cartography Assignment Grading
 
