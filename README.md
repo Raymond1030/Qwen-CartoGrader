@@ -19,14 +19,23 @@ This tool leverages the Qwen-VL multimodal LLM to automatically grade cartograph
 ## 🚀 核心功能 | Features
 
 - **多维度审查** | Multi-dimensional Analysis
+  
   ✅ 配色规范检查 | Color Scheme Validation
+  
   ✅ 地图要素完整性验证 | Map Element Completeness Check
+  
   ✅ 文字标注合规性检测 | Text Annotation Compliance
+  
   ✅ 布局结构评估 | Layout Structure Evaluation
+  
 - **技术特性** | Technical Highlights
+  
   🔹 Qwen-VL-Max视觉语言模型 | Qwen-VL-Max Vision-Language Model
+  
   🔹 Base64图像流式处理 | Base64 Image Stream Processing
+  
   🔹 异步API调用优化 | Asynchronous API Call Optimization
+  
   🔹 文件批改后统一输出查看 |  Unified Output After Correction Optimization
 
 ## 🛠️ 快速开始 | Getting Started
@@ -46,7 +55,7 @@ pip install openai python-dotenv
 
 **Qwen API文档 ｜Document：https://help.aliyun.com/zh/model-studio/user-guide/vision/**
 
-* 在**[阿里云百炼模型平台](https://bailian.console.aliyun.com//model-market#/home)**注册，选择对应模型并获取相应模型API，需要多模态模型（如Qwen-Omni-Turbo, Qwen-Max)，填入代码文件中｜Register in **[AliCloud Hundred Refined Models Platform](https://bailian.console.aliyun.com//model-market#/home)**, select the corresponding model and get the corresponding model API, need multimodal model (e.g. Qwen-Omni-Turbo, Qwen-Max), fill in the code file
+* 在 **[阿里云百炼模型平台](https://bailian.console.aliyun.com//model-market#/home)** 注册，选择对应模型并获取相应模型API，需要多模态模型（如Qwen-Omni-Turbo, Qwen-Max)，填入代码文件中｜Register in **[AliCloud Hundred Refined Models Platform](https://bailian.console.aliyun.com//model-market#/home)**, select the corresponding model and get the corresponding model API, need multimodal model (e.g. Qwen-Omni-Turbo, Qwen-Max), fill in the code file
 
 ### 地图批改 | Cartography Assignment Grading
 
